@@ -240,11 +240,6 @@ Here's a screenshot:
 
 ![Image of password input](https://curriculum-content.s3.amazonaws.com/web-development/fewds-html-forms/password_input.png)
 
-
-Here's a screenshot:
-
-![Image of tel input](https://curriculum-content.s3.amazonaws.com/web-development/fewds-html-forms/tel_input.png)
-
 ### Submit Inputs
 
 Creating an `input` tag with `type="submit"` creates a submit button that, when
